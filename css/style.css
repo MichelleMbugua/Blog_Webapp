@@ -1,0 +1,31 @@
+body {
+    background-color: #f0ebbe;
+    margin: 0;
+    color: #000000;
+    font-family: 'Arial', cursive;
+    font-size: 1.1em;
+    line-height: 1.6em;
+}
+input {
+  display: block;
+  width: 100%;
+  padding: 8px;
+  margin-bottom: -20px;
+  border: 1px solid gray;
+  font-size: 15px;
+}
+
+
+.banner {
+    background-color: #f1c782;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    text-align: center;
+}
+.form-box {
+    background-color: #f1c782;
+    padding: 20px;
+    border-radius: 5px;
+    width: 400px;
+    margin: 0 auto;
+}
